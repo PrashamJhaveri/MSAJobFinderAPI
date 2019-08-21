@@ -1,0 +1,14 @@
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.csprojAssemblyReference.cache
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.csproj.CoreCompileInputs.cache
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.RazorAssemblyInfo.cache
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.RazorAssemblyInfo.cs
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.AssemblyInfoInputs.cache
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.AssemblyInfo.cs
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.dll
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.pdb
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/bin/Debug/netcoreapp2.2/FindMeAJob.deps.json
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/bin/Debug/netcoreapp2.2/FindMeAJob.runtimeconfig.json
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/bin/Debug/netcoreapp2.2/FindMeAJob.runtimeconfig.dev.json
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/bin/Debug/netcoreapp2.2/FindMeAJob.dll
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/bin/Debug/netcoreapp2.2/FindMeAJob.pdb
+/Users/prashamjhaveri/Desktop/MSA19/MSAJobFinderAPI/FindMeAJobAPI/FindMeAJob/obj/Debug/netcoreapp2.2/FindMeAJob.RazorTargetAssemblyInfo.cache
